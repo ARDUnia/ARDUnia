@@ -1,16 +1,30 @@
-## Hi there 👋
+# ARDUnia
 
-<!--
-**ARDUnia/ARDUnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Open-source electronics, embedded systems, IoT and software projects by Hamidreza Milaninia.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ARDUnia is a personal technology initiative focused on practical electronics, embedded systems, IoT, automation and open-source development.
+
+Projects include work with ESP32, ESP8266, Arduino, internet radio, audio systems, Persian software libraries and AI-powered IoT solutions.
+
+## Featured Projects
+
+- PersianDate Library
+- ARDUnia Audio Hub
+- Internet Radio Projects
+- Podcast Player
+- IoT and AI Projects
+- Embedded Systems Experiments
+
+## Links
+
+- Personal Website: https://hrmnia.com/
+- ARDUnia Website: https://ardunia.ir/
+- LinkedIn: https://www.linkedin.com/in/hamidreza-milaninia/
+
+## Author
+
+**Hamidreza Milaninia**
+
+Management & Business Consultant | DBA Student at the University of Tehran | Electronics and Open-Source Enthusiast
