@@ -15,9 +15,9 @@ Projects include work with ESP32, ESP8266, Arduino, internet radio, audio system
 - [ARDUnia Smart Clock](https://github.com/ARDUnia/ARDUnia-Smart-Clock)
 - [ARDUnia ADA](https://github.com/ARDUnia/ADA)
 - [TTP223Row Library](https://github.com/ARDUnia/TTP223Row)
-- ARDUnia Audio Hub
-- Podcast Player
-- IoT and AI Projects
+- [ARDUnia Audio Hub](https://ardunia.ir/projects/audio-hub)
+- [Podcast Player](https://ardunia.ir/projects/podcast-player)
+- [IoT and AI Projects](https://api.ardunia.ir/)
 - Embedded Systems Experiments
 
 ## Links
