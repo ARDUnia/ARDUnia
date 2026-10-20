@@ -14,6 +14,7 @@ Projects include work with ESP32, ESP8266, Arduino, internet radio, audio system
 
 ## Featured Projects
 
+- [ARDUnia Fly Radar — Live Aircraft Radar (ESP8266 + GC9A01)](https://github.com/ARDUnia/ARDUnia-Fly-Radar)
 - [PersianDate Library](https://github.com/ARDUnia/PersianDate)
 - [TTP223Row Library](https://github.com/ARDUnia/TTP223Row)
 - [ARDUniaButton Library](https://github.com/ARDUnia/ARDUniaButton)
