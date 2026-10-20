@@ -1,5 +1,9 @@
 # ARDUnia
 
+[![GitHub followers](https://img.shields.io/github/followers/ARDUnia?label=Follow&style=social)](https://github.com/ARDUnia)
+[![ARDUnia Website](https://img.shields.io/badge/Website-ardunia.ir-2FB5A3)](https://ardunia.ir/)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-hrmnia.com-0B2C47)](https://hrmnia.com/)
+
 Open-source electronics, embedded systems, IoT, AI, and software projects by **Hamidreza Milaninia**.
 
 ## About
